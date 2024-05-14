@@ -1,0 +1,13 @@
+Hospital Name,Disease,Treatment Cost ($),Equipment Level,Doctor Consultation Fee ($)
+ABC Hospital,Flu,1000,High,50
+XYZ Hospital,Flu,800,Medium,40
+PQR Hospital,Flu,600,Low,30
+ABC Hospital,Pneumonia,3000,High,100
+XYZ Hospital,Pneumonia,2500,Medium,80
+PQR Hospital,Pneumonia,2000,Low,60
+ABC Hospital,Broken Bones,5000,High,200
+XYZ Hospital,Broken Bones,4000,Medium,150
+PQR Hospital,Broken Bones,3000,Low,120
+ABC Hospital,Heart Disease,10000,High,500
+XYZ Hospital,Heart Disease,8000,Medium,400
+PQR Hospital,Heart Disease,6000,Low,300
