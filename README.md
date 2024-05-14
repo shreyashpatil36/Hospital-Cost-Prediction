@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 1.Clone the repository:
-git clone https://
+git clone https://https://github.com/svprferg/Hospital-Cost-Prediction
 cd hospital-cost-prediction
 
 2.Install the required Python packages:
